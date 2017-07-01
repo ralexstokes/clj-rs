@@ -1,0 +1,3 @@
+# clj-rs
+
+Clojure-like interpreter implemented in Rust.

@@ -1,0 +1,14 @@
+[package]
+name = "mal"
+version = "0.1.0"
+authors = ["Alex Stokes <r.alex.stokes@gmail.com>"]
+
+[dependencies]
+rustyline = { git = "https://github.com/ralexstokes/rustyline" }
+regex = "0.1.80"
+lazy_static = "0.2.2"
+term = "0.2"
+time = "0.1.36"
+
+[features]
+readline = []
